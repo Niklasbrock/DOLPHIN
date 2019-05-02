@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Multiple Buttons:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Multiple_Buttons_jar</output-path>
+    <root id="archive" name="Multiple Buttons.jar">
+      <element id="module-output" name="Dolphin" />
+    </root>
+  </artifact>
+</component>
